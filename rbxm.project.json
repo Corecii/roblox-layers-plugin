@@ -1,0 +1,12 @@
+{
+  "name": "roblox-layers-plugin",
+  "tree": {
+    "$className": "Folder",
+    "RobloxLayersPlugin": {
+      "$path": "default.project.json",
+      "_packages": {
+        "$path": "packages"
+      }
+    }
+  }
+}

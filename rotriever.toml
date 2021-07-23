@@ -1,0 +1,8 @@
+[package]
+name = "roblox-layers-plugin"
+version = "0.1.0"
+author = "Shae A"
+license = "MIT"
+
+[dependencies]
+Roact = { git = "https://github.com/Roblox/roact/" }

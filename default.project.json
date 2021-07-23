@@ -1,0 +1,6 @@
+{
+  "name": "roblox-layers-plugin",
+  "tree": {
+    "$path": "src/plugin"
+  }
+}
